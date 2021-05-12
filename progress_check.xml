@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".progressCheck">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#832194">
+
+            <ImageView
+                android:id="@+id/pch1"
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:contentDescription="@string/todo"
+                android:scaleType="fitXY" />
+
+            <ImageView
+                android:id="@+id/pch2"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:contentDescription="@string/todo"
+                android:scaleType="fitXY" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

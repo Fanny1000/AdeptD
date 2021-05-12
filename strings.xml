@@ -1,0 +1,184 @@
+<resources>
+    <string name="bienvenido">Welcome, </string>
+    <string name="app_name">Adept Diction</string>
+    <string name="todo">Todo</string>
+    <string name="Niveles"> Levels: </string>
+    <string name="password">Password</string>
+    <string name="password2">Password:</string>
+    <string name="user">User</string>
+    <string name="Correo">E-mail:</string>
+    <string name="CorreoEx">Ex.fanny_s@gmail.com</string>
+    <string name="enter">Enter</string>
+    <string name="sign_in">Sign In</string>
+    <string name="about">About us</string>
+    <string name="contact">Contact us:</string>
+    <string name="addressR">Hda. Tulipanes 75, Jardines de la Hacienda, 54720 Cuautitlán Izcalli, Méx.</string>
+    <string name="address">Address:</string>
+    <string name="ProfesorAuthorization">Teacher authorization</string>
+    <string name="signinNota">Note:\nRemember that for this process a teacher or authorized person must be present</string>
+    <string name="SignInInstructor">Please let the teacher enter to give authorization</string>
+
+    <string name="Name">Name:</string>
+    <string name="NameEx">Ex. Estefania</string>
+    <string name="Apellido">Last Name:</string>
+    <string name="ApellidoEx">Ex. Bucio</string>
+    <string name="Tel">Phone Number:</string>
+    <string name="TelEx">Ex. 5561077420</string>
+    <string name="Nivel">Level:</string>
+    <string name="Level1">A1: Freshman</string>
+    <string name="Level2">A2: Sophomore</string>
+    <string name="Level3">B1: Junior</string>
+    <string name="Level4">B2: Senior</string>
+    <string name="Usuario">User:</string>
+    <string name="UsuarioEx">Ex. FannyS</string>
+
+    <string name="otros">Other services:</string>
+    <string name="otrosS">\n· Traducciones(Videos, documentos, etc.)\n
+    · Clases personalizadas(Asesorías, regularizaciones, etc.)\n
+    · Inglés empresarial\n
+     </string>
+
+    <string name="content">Content</string>
+    <string name="contentD">Check your books content</string>
+    <string name="calendary">Calendar</string>
+    <string name="calendarD">Check your calendar course</string>
+    <string name="notices">Notes</string>
+    <string name="noticesD">Keep teacher notes and yours</string>
+    <string name="homework">Homework</string>
+    <string name="homeworkD">Save yours course homeworks</string>
+    <string name="comments">Comments</string>
+    <string name="commentsD">Share your comments to your professor</string>
+    <string name="library">Library</string>
+    <string name="libraryD">Check the books of our library and ask for them</string>
+
+    <string name="AboutConclu">*Nota. Para cada uno de los niveles se realiza:\n· Examen piloto\n· Seguimiento de avance\n· oportunidad de mejora
+    \n· Preparación para aplicar examén de certificación\n
+        Todos los niveles incluyen Listening, Speaking, Reading,Writing and Grammar</string>
+    <string name="AboutA1"><![CDATA[ <b>A1: Freshman</b> <br/>
+    <b> Temas: </b> <br/>
+    •&nbsp;Names and titles <b>(Nombres y titulos)</b><br/><p align=justify style="line-height=90%">
+    •&nbsp;Alphabed <b>(Alfabeto de la A a la Z)</b> <br/> <p align=justify style="line-height=90%">
+    •&nbsp;Numbers (0-10) and Phone Numbers <b>(Numeros del 1 al 10 y numeros teléfonicos)</b> <br/><p align=justify style="line-height=90%">
+    •&nbsp;E-mail address <b>(Direcciones de correo)</b> <br/><p align=justify style="line-height=90%">
+    •&nbsp;Possessions <b>(Posesiones *de él, de ella, de ellos, mio, etc.*)</b> <br/><p align=justify style="line-height=90%">
+    •&nbsp;Classroom objects <b>(Objetos del salón)</b> <br/> <p align=justify style="line-height=90%">
+    •&nbsp;Personal items <b>(Cosas personales)</b> <br/> <p align=justify style="line-height=90%">
+    •&nbsp;Locations in a room <b>(Posisiones en una habitación)</b><br/> <p align=justify style="line-height=90%">
+•&nbsp;Cities and countries<b>(Ciudades y paises)</b><br/> <p align=justify style="line-height=90%">
+•&nbsp;Adjectives of personality <b>(Adjetivos de personalidad)</b><br/> <p align=justify style="line-height=90%">
+•&nbsp;Appearance <b>(Apariencia)</b><br/> <p align=justify style="line-height=90%">
+•&nbsp;Numbers (11-103) <b>(Numeros del 11 al 103)</b><br/> <p align=justify style="line-height=90%">
+<b>*Para ver el temario completo porfavor acude a la sucursal</b>]]></string>
+
+    <string name="AboutA2"><![CDATA[ <b>A2: Sophomore</b> <br/>
+    <b> Temas: </b> <br/>
+    •&nbsp;People <b>(Tipos de personas)</b><br/><p align=justify style="line-height=90%">
+    •&nbsp;Childhood <b>(Infancia y relatos de ella)</b> <br/> <p align=justify style="line-height=90%">
+    •&nbsp;Memories <b>(Memorias y relatos)</b> <br/><p align=justify style="line-height=90%">
+    •&nbsp;Transportation <b>(Tipos de transporte)</b> <br/><p align=justify style="line-height=90%">
+    •&nbsp;Transportation problems <b>(Problemas de tránsito y transporte)</b> <br/><p align=justify style="line-height=90%">
+    •&nbsp;City services <b>(Servicios públicos)</b> <br/> <p align=justify style="line-height=90%">
+    •&nbsp;Houses and apartments <b>(Casas y departamentos)</b> <br/> <p align=justify style="line-height=90%">
+    •&nbsp;Lifestyle changes <b>(Cambios en el estilo de vida)</b><br/> <p align=justify style="line-height=90%">
+•&nbsp;Wishes <b>(Deseos y anhelos)</b><br/> <p align=justify style="line-height=90%">
+•&nbsp;Food and recipes <b>(Comida y recetas)</b><br/> <p align=justify style="line-height=90%">
+•&nbsp;Cooking instructions and methods <b>(Intrucciones  y metódos en la cocina)</b><br/> <p align=justify style="line-height=90%">
+•&nbsp;Vacations and travels <b>(Vacaciones y viajes)</b><br/> <p align=justify style="line-height=90%">
+<b>*Para ver el temario completo porfavor acude a la sucursal</b>]]></string>
+
+    <string name="AboutB1"><![CDATA[ <b>B1: Junior</b> <br/>
+    <b> Temas: </b> <br/>
+    •&nbsp;Relative pronouns <br/><p align=justify style="line-height=90%">
+    •&nbsp;It clauses+adverbial clauses with when <br/> <p align=justify style="line-height=90%">
+    •&nbsp;Gerund phrases <br/><p align=justify style="line-height=90%">
+    •&nbsp;Comparisons<br/><p align=justify style="line-height=90%">
+    •&nbsp;Request with modals, it clauses and gerunds<br/><p align=justify style="line-height=90%">
+    •&nbsp;Indirect request<br/> <p align=justify style="line-height=90%">
+    •&nbsp;Past continuous vs simple  past<br/> <p align=justify style="line-height=90%">
+    •&nbsp;Past perfect<br/> <p align=justify style="line-height=90%">
+•&nbsp;Noun phrases containing relative clauses<br/> <p align=justify style="line-height=90%">
+•&nbsp;Expectations<br/> <p align=justify style="line-height=90%">
+•&nbsp;Describing problems<br/> <p align=justify style="line-height=90%">
+•&nbsp;Passive with prepositions<br/> <p align=justify style="line-height=90%">
+•&nbsp;Infinitive clauses and phrases<br/> <p align=justify style="line-height=90%">
+<b>*Para ver el temario completo porfavor acude a la sucursal</b>]]></string>
+
+
+    <string name="TituloDelRecordatorio">Add your homework</string>
+    <string name="nombreDelRecordatorio">Name of homework:</string>
+    <string name="descripcionDelRecordatorio">Description of the homework:</string>
+    <string name="diaDelRecordatorio">Day of homework:</string>
+    <string name="horaDelRecordatorio">Hour of the homework:</string>
+
+
+    <string name="titulo_notas">Add your notes:</string>
+    <string name="boton_guardar">Save your note</string>
+    <string name="boton_ver">See my notes</string>
+
+
+
+    <string name="l1">Student\'s Book 3</string>
+    <string name="I">I</string>
+    <string name="u1">1</string>
+    <string name="u2">2</string>
+    <string name="u1_2">1-2</string>
+    <string name="u3">3</string>
+    <string name="u4">4</string>
+    <string name="u3_4">3-4</string>
+    <string name="u5">5</string>
+    <string name="u6">6</string>
+    <string name="u5_6">5-6</string>
+    <string name="u7">7</string>
+    <string name="u8">8</string>
+    <string name="u7_8">7-8</string>
+    <string name="u9">9</string>
+    <string name="u10">10</string>
+    <string name="u9_10">9-10</string>
+    <string name="u11">11</string>
+    <string name="u12">12</string>
+    <string name="u11_12">11-12</string>
+    <string name="u13">13</string>
+    <string name="u14">14</string>
+    <string name="u13_14">13-14</string>
+    <string name="u15">15</string>
+    <string name="u16">16</string>
+    <string name="u15_16">15-16</string>
+
+    <string name="progress_check">Progress check</string>
+    <string name="Ib1l1">Introduction</string>
+    <string name="u1b1l1">That\'s what friends are for!</string>
+            <string name="u1b1l1_p">Pages 2-7</string>
+    <string name="u2b1l1">Career moves</string>
+        <string name="u2b1l1_p">Pages 8-13</string>
+    <string name="u3b1l1">Could you do me a favor?</string>
+        <string name="u3b1l1_p">Pages 16-21</string>
+    <string name="u4b1l1">What a story!</string>
+        <string name="u4b1l1_p">Pages 22-27</string>
+    <string name="u5b1l1">Crossing cultures</string>
+        <string name="u5b1l1_p">Pages 30-35</string>
+    <string name="u6b1l1">What\'s wrong with it?</string>
+         <string name="u6b1l1_p">Pages 30-35</string>
+    <string name="u7b1l1">The world we live in</string>
+        <string name="u7b1l1_p">Pages 44-49</string>
+    <string name="u8b1l1">Lifelong learning</string>
+        <string name="u8b1l1_p">Pages 50-55</string>
+    <string name="u9b1l1">Improvements</string>
+        <string name="u9b1l1_p">Pages 58-63</string>
+    <string name="u10b1l1">The past and the future</string>
+         <string name="u10b1l1_p">Pages 64-69</string>
+    <string name="u11b1l1">Life\'s little lessons</string>
+        <string name="u11b1l1_p">Pages 72-77</string>
+    <string name="u12b1l1">The right stuff</string>
+        <string name="u12b1l1_p">Pages 78-83</string>
+    <string name="u13b1l1">That\'s possibility</string>
+        <string name="u13b1l1_p">Pages 86-91</string>
+    <string name="u14b1l1">Behind the scenes</string>
+        <string name="u14b1l1_p">Pages 92-97</string>
+    <string name="u15b1l1">There should be a law!</string>
+        <string name="u15b1l1_p">Pages 100-105</string>
+    <string name="u16b1l1">Challenges and accomplishments</string>
+        <string name="u16b1l1_p">Pages 106-111</string>
+
+
+
+</resources>
